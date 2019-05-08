@@ -11,12 +11,14 @@ import com.microsoft.appcenter.AppCenter;
 import com.microsoft.appcenter.analytics.Analytics;
 import com.microsoft.appcenter.crashes.Crashes;
 
+// This is comment 1.
 
 public class MainActivity extends AppCompatActivity {
 
     private SectionsPagerAdapter mSectionsPagerAdapter;
     private ViewPager mViewPager;
     private final int PAGECOUNT = 7;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
