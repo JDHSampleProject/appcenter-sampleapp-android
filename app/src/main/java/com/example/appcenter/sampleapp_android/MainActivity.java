@@ -17,6 +17,8 @@ import com.microsoft.appcenter.crashes.Crashes;
 
 // This is comment 3.
 
+// This is comment 4.
+
 public class MainActivity extends AppCompatActivity {
 
     private SectionsPagerAdapter mSectionsPagerAdapter;
